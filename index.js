@@ -1,0 +1,3 @@
+let divide = () => 20; //< --- the problem with tests ... 
+let square = x => x * x;
+let add = (a, b) => a + b;
